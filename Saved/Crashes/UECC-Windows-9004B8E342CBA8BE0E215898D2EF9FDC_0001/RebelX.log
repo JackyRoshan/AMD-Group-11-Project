@@ -15913,20 +15913,3 @@ Saving these assets will allow them to be unloaded.
 [2023.10.26-23.38.40:679][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.10.26-23.38.40:680][922]LogStylusInput: Shutting down StylusInput subsystem.
 [2023.10.26-23.38.40:680][922]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
-[2023.10.26-23.38.41:554][922]LogWindows: Error: === Critical error: ===
-[2023.10.26-23.38.41:554][922]LogWindows: Error: 
-[2023.10.26-23.38.41:554][922]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0xffffffffffffffff
-[2023.10.26-23.38.41:554][922]LogWindows: Error: 
-[2023.10.26-23.38.41:554][922]LogWindows: Error: [Callstack] 0x00007ffc8fff1720 UnrealEditor-Engine.dll!UnknownFunction []
-[2023.10.26-23.38.41:554][922]LogWindows: Error: [Callstack] 0x00007ffc8d7ea99f UnrealEditor-Renderer.dll!UnknownFunction []
-[2023.10.26-23.38.41:554][922]LogWindows: Error: [Callstack] 0x00007ffc8d793220 UnrealEditor-Renderer.dll!UnknownFunction []
-[2023.10.26-23.38.41:554][922]LogWindows: Error: [Callstack] 0x00007ffc8d7bf57d UnrealEditor-Renderer.dll!UnknownFunction []
-[2023.10.26-23.38.41:554][922]LogWindows: Error: [Callstack] 0x00007ffcab7fd5f6 UnrealEditor-Core.dll!UnknownFunction []
-[2023.10.26-23.38.41:554][922]LogWindows: Error: [Callstack] 0x00007ffcab7fdb1e UnrealEditor-Core.dll!UnknownFunction []
-[2023.10.26-23.38.41:554][922]LogWindows: Error: [Callstack] 0x00007ffd01f3c5e9 UnrealEditor-RenderCore.dll!UnknownFunction []
-[2023.10.26-23.38.41:554][922]LogWindows: Error: [Callstack] 0x00007ffd01f42554 UnrealEditor-RenderCore.dll!UnknownFunction []
-[2023.10.26-23.38.41:554][922]LogWindows: Error: [Callstack] 0x00007ffcabec2162 UnrealEditor-Core.dll!UnknownFunction []
-[2023.10.26-23.38.41:554][922]LogWindows: Error: [Callstack] 0x00007ffcabeb81b0 UnrealEditor-Core.dll!UnknownFunction []
-[2023.10.26-23.38.41:554][922]LogWindows: Error: [Callstack] 0x00007ffd48bc257d KERNEL32.DLL!UnknownFunction []
-[2023.10.26-23.38.41:554][922]LogWindows: Error: [Callstack] 0x00007ffd49c4aa78 ntdll.dll!UnknownFunction []
-[2023.10.26-23.38.41:554][922]LogWindows: Error: 
